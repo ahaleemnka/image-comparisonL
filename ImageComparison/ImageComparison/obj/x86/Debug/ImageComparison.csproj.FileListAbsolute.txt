@@ -1,0 +1,4 @@
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparison\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparison\bin\Debug\XnaFan.ImageComparison.pdb
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparison\obj\x86\Debug\XnaFan.ImageComparison.dll
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparison\obj\x86\Debug\XnaFan.ImageComparison.pdb

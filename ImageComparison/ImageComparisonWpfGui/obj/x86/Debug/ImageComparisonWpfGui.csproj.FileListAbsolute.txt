@@ -1,0 +1,14 @@
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\bin\Debug\ImageComparisonWpfGui.exe
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\bin\Debug\ImageComparisonWpfGui.pdb
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\bin\Debug\XnaFan.ImageComparison.pdb
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.csprojResolveAssemblyReference.cache
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\MainWindow.baml
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\App.g.cs
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui_MarkupCompile.cache
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.g.resources
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.Properties.Resources.resources
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.csproj.GenerateResource.Cache
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.exe
+C:\Users\HaLeeM\Desktop\cmpr\ImageComparison\ImageComparisonWpfGui\obj\x86\Debug\ImageComparisonWpfGui.pdb
